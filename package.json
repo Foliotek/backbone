@@ -1,0 +1,10 @@
+{
+  "name": "backbone-history",
+  "version": "1.0.0",
+  "description": "Backbone.js with only History, Router, and Events",
+  "main": "backbone.js",
+  "repository": "https://github.com/Foliotek/backbone-history.git",
+  "author": "Foliotek",
+  "license": "MIT",
+  "private": false
+}
